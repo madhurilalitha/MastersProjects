@@ -6,6 +6,8 @@ The threading logic used in the design, creates multiple threads where the sum i
 The core Fibonacci logic remains same where the current number is moved to a temporary variable and the previous sum is added to the
 current number and sum is made as the current number.
 This core logic is called every time using threading techniques thus processing the thread processes parallely.
+
+
 Project 1-2: Statistical Functions program Report.
 
 Design: •	We used pthread techniques to obtain the logic for finding the maximum, minimum and average of the given input of numbers. 
