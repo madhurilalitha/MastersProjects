@@ -9,3 +9,5 @@ https://www.kaggle.com/c/word2vec-nlp-tutorial#part-2-word-vectors
 
 Resutls:
 Accuracy on train dataset - 98.75% and test dataset - 80.97%
+
+The interactive version of code can be found in the Jupyter IPYNB notebook with name "sentiment-classification.ipynb" mounted in this repository
